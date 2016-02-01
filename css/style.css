@@ -1,0 +1,33 @@
+p {
+  font-family: sans-serif;
+}
+
+#myFirstDiv {
+  background-color: green;
+  color: white;
+  margin: 10px;
+  padding: 15px;
+  font-family: sans-serif;
+  border-radius: 10px;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+}
+
+li a {
+  color: yellow;
+}
+
+.notTestClass {
+  margin-left: 20px;
+}
+
+.hasBackgroundImage {
+  height: 50px;
+  width: 50px;
+  background-color: steelblue;
+  background-image: url('https://yt3.ggpht.com/-RZYi5isxH_M/AAAAAAAAAAI/AAAAAAAAAAA/rmWpoe2qZzI/s900-c-k-no/photo.jpg');
+  background-size: 100%;
+}
